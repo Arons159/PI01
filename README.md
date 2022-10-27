@@ -30,10 +30,11 @@ Una vez cargados los datos se puede realizar consultas Query y su futuro anális
 
 ## Diagrama de flujo
 
-![Diagrama](_src/diagrama_de_flujo.drawio)
+![Diagrama](_src/diagrama_de_flujo.drawio.png)
 
 ## Respuesta
 
-Se realiza una consulta Query 'Precio promedio de la sucursal 9-1-688' en el DataBase
+Se realiza una consulta Query: 'Precio promedio de la sucursal 9-1-688' en el DataBase
 
-![Diagrama](_src/Capture)
+![Diagrama](_src/Capture.PNG)
+
