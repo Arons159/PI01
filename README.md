@@ -12,7 +12,7 @@ Habilidades:
     
 ## Entre las Herramientas se encuentran:
  - Jupyter Notebooks, Python, Mysql, SQL.
- - Uso de Librerias de Python: SQLAlchemy, Pathlib, Datetime, Pandas, Numpy
+ - Uso de Librerias de Python: SQLAlchemy, Numpy, Pandas
 
 ## Propuesta
 - Procesar los diferentes datasets. 
